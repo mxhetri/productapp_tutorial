@@ -15,6 +15,7 @@ class ProductTable extends Component {
                 <tr>
                     <th>ID</th>
                     <th>Name</th>
+                    <th>Category</th>
                     <th className='text-right'>Price</th>
                     <th></th>
                 </tr>
